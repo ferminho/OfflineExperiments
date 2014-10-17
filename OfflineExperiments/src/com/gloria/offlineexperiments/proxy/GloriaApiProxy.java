@@ -29,7 +29,7 @@ public class GloriaApiProxy {
 
 	// private static final String SERVER_URL =
 	// "https://venus.datsi.fi.upm.es:8443/GLORIAAPI/";
-	private static final String SERVER_URL = "https://ws.users.gloria-project.eu:8443/";
+	private static final String SERVER_URL = "https://ws.users.gloria-project.eu:443/";
 	private static final String EXPERIMENTS = "api/experiments/";
 
 	public static final String OP_EXPERIMENT_LIST = SERVER_URL + EXPERIMENTS
